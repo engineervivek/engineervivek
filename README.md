@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @engineervivek
-- 👀 I’m interested in software devlopment
-- 🌱 I’m currently learning about software engineering
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning about software development and Java full stack developer
 - 💞️ I want to become software engineer and java full stack developer
 - 📫 How to reach me mail on vishwankpandey@gmail.com 
 
